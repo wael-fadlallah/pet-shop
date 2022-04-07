@@ -1,6 +1,6 @@
 import { Types } from "../actions/types";
 
-const initialState = { products: {} };
+const initialState = [];
 
 export default function productsReducer(state = initialState, action) {
   const { type, payload } = action;
