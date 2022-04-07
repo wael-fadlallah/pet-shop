@@ -1,0 +1,4 @@
+export const Types = {
+  GET_ALL_PRODUCTS: "GET_ALL_PRODUCTS",
+  LIST_ALL_PRODUCTS: "LIST_ALL_PRODUCTS",
+};
